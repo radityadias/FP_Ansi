@@ -1,0 +1,36 @@
+#con-beranda
+{
+    margin-top: 20px;
+}
+
+#con-beranda .row
+{
+    margin-bottom: 10px;
+}
+
+#con-menu, #con-bayar
+{
+    justify-content: center;
+    align-items: center;
+}
+
+#con-bayar{
+    height: 20rem;
+    background: rgba(231, 228, 228, 0.244);
+    justify-content: center;
+    
+} 
+
+#con-bayar .col
+{
+    text-align: center;
+}
+
+/* .wrapper-bayar
+{
+    margin-right: 40px;
+} */
+
+img{
+    max-width: 280px;
+}
